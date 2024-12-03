@@ -1,0 +1,734 @@
+[
+  {
+    "id": "8ed1d963-3ec6-40e1-a205-18295eb1519f",
+    "title": "2006 FIFA World Cup",
+    "context": "The 2006 FIFA World Cup, also branded as Germany 2006, was the 18th FIFA World Cup, the quadrennial international association football world championship tournament. It was held from 9 June to 9 July 2006 in Germany, which had won the right to host the event in July 2000. Teams representing 198 national football associations from all six populated continents participated in the qualification process which began in September 2003. Thirty-one teams qualified from this process along with hosts Germany for the finals tournament. It was the second time that Germany staged the competition and the first as a unified country along with the former East Germany with Leipzig as a host city (the other was in 1974 in West Germany), and the 10th time that the tournament was held in Europe.",
+    "question": "Where was the 2006 world cup held?",
+    "answers": {
+      "text": [
+        "Germany",
+        "Germany 2006",
+        "Germany",
+        "Europe"
+      ],
+      "answer_start": [
+        41,
+        41,
+        41,
+        779
+      ]
+    }
+  },
+  {
+    "id": "93066bab-709c-4179-bb4d-8898cb73ac72",
+    "title": "2006 FIFA World Cup",
+    "context": "The 2006 FIFA World Cup, also branded as Germany 2006, was the 18th FIFA World Cup, the quadrennial international association football world championship tournament. It was held from 9 June to 9 July 2006 in Germany, which had won the right to host the event in July 2000. Teams representing 198 national football associations from all six populated continents participated in the qualification process which began in September 2003. Thirty-one teams qualified from this process along with hosts Germany for the finals tournament. It was the second time that Germany staged the competition and the first as a unified country along with the former East Germany with Leipzig as a host city (the other was in 1974 in West Germany), and the 10th time that the tournament was held in Europe.",
+    "question": "How many countries participated in the 2006 world cup?",
+    "answers": {
+      "text": [
+        "198",
+        "198",
+        "198"
+      ],
+      "answer_start": [
+        292,
+        292,
+        292
+      ]
+    }
+  },
+  {
+    "id": "59fb7fbc-8cc9-4bf3-9f86-d57db174d7f3",
+    "title": "2006 FIFA World Cup",
+    "context": "The 2006 FIFA World Cup, also branded as Germany 2006, was the 18th FIFA World Cup, the quadrennial international association football world championship tournament. It was held from 9 June to 9 July 2006 in Germany, which had won the right to host the event in July 2000. Teams representing 198 national football associations from all six populated continents participated in the qualification process which began in September 2003. Thirty-one teams qualified from this process along with hosts Germany for the finals tournament. It was the second time that Germany staged the competition and the first as a unified country along with the former East Germany with Leipzig as a host city (the other was in 1974 in West Germany), and the 10th time that the tournament was held in Europe.",
+    "question": "How many times has Germany hosted a world cup?",
+    "answers": {
+      "text": [
+        "second",
+        "second time",
+        "second"
+      ],
+      "answer_start": [
+        542,
+        542,
+        542
+      ]
+    }
+  },
+  {
+    "id": "9b82d649-6582-40d8-abca-2911929cd8dc",
+    "title": "2006 FIFA World Cup",
+    "context": "The 2006 FIFA World Cup, also branded as Germany 2006, was the 18th FIFA World Cup, the quadrennial international association football world championship tournament. It was held from 9 June to 9 July 2006 in Germany, which had won the right to host the event in July 2000. Teams representing 198 national football associations from all six populated continents participated in the qualification process which began in September 2003. Thirty-one teams qualified from this process along with hosts Germany for the finals tournament. It was the second time that Germany staged the competition and the first as a unified country along with the former East Germany with Leipzig as a host city (the other was in 1974 in West Germany), and the 10th time that the tournament was held in Europe.",
+    "question": "How many times has the world cup been held in Europe as of 2006?",
+    "answers": {
+      "text": [
+        "the 10th",
+        "10th",
+        "the 10th time",
+        "10th time"
+      ],
+      "answer_start": [
+        733,
+        737,
+        733,
+        737
+      ]
+    }
+  },
+  {
+    "id": "2aefdb42-a702-43e6-9f4e-3c6425d78dfd",
+    "title": "2006 FIFA World Cup",
+    "context": "The 2006 FIFA World Cup, also branded as Germany 2006, was the 18th FIFA World Cup, the quadrennial international association football world championship tournament. It was held from 9 June to 9 July 2006 in Germany, which had won the right to host the event in July 2000. Teams representing 198 national football associations from all six populated continents participated in the qualification process which began in September 2003. Thirty-one teams qualified from this process along with hosts Germany for the finals tournament. It was the second time that Germany staged the competition and the first as a unified country along with the former East Germany with Leipzig as a host city (the other was in 1974 in West Germany), and the 10th time that the tournament was held in Europe.",
+    "question": "In what year was the first time Germany hosted a world cup?",
+    "answers": {
+      "text": [
+        "1974",
+        "1974",
+        "1974"
+      ],
+      "answer_start": [
+        706,
+        706,
+        706
+      ]
+    }
+  },
+  {
+    "id": "e767465f-0c2d-45c7-8b44-90728d42747f",
+    "title": "World War II",
+    "context": "The causes of World War II are debated, but contributing factors included the Second Italo-Ethiopian War, the Spanish Civil War, the Second Sino-Japanese War, the Soviet\u2013Japanese border conflicts, the rise of fascism in Europe and rising European tensions since World War I. World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland. The United Kingdom and France subsequently declared war on Germany on 3 September. Under the Molotov\u2013Ribbentrop Pact of August 1939, Germany and the Soviet Union had partitioned Poland and marked out their 'spheres of influence' across Finland, Estonia, Latvia, Lithuania and Romania. From late 1939 to early 1941, in a series of campaigns and treaties, Germany conquered or controlled much of continental Europe, and formed the Axis alliance with Italy and Japan (with other countries later). Following the onset of campaigns in North Africa and East Africa, and the fall of France in mid-1940, the war continued primarily between the European Axis powers and the British Empire, with war in the Balkans, the aerial Battle of Britain, the Blitz of the United Kingdom, and the Battle of the Atlantic. On 22 June 1941, Germany led the European Axis powers in an invasion of the Soviet Union, opening the Eastern Front, the largest land theatre of war in history.",
+    "question": "What factors contributed to World War II?",
+    "answers": {
+      "text": [
+        "the Second Italo-Ethiopian War, the Spanish Civil War, the Second Sino-Japanese War, the Soviet\u2013Japanese border conflicts, the rise of fascism in Europe and rising European tensions since World War I",
+        "the Second Italo-Ethiopian War, the Spanish Civil War, the Second Sino-Japanese War, the Soviet\u2013Japanese border conflicts, the rise of fascism in Europe and rising European tensions since World War I",
+        "the Second Italo-Ethiopian War, the Spanish Civil War, the Second Sino-Japanese War, the Soviet\u2013Japanese border conflicts, the rise of fascism in Europe and rising European tensions since World War I"
+      ],
+      "answer_start": [
+        74,
+        74,
+        74
+      ]
+    }
+  },
+  {
+    "id": "4d50fe1f-62e9-4341-87f9-86cd643a615c",
+    "title": "World War II",
+    "context": "The causes of World War II are debated, but contributing factors included the Second Italo-Ethiopian War, the Spanish Civil War, the Second Sino-Japanese War, the Soviet\u2013Japanese border conflicts, the rise of fascism in Europe and rising European tensions since World War I. World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland. The United Kingdom and France subsequently declared war on Germany on 3 September. Under the Molotov\u2013Ribbentrop Pact of August 1939, Germany and the Soviet Union had partitioned Poland and marked out their 'spheres of influence' across Finland, Estonia, Latvia, Lithuania and Romania. From late 1939 to early 1941, in a series of campaigns and treaties, Germany conquered or controlled much of continental Europe, and formed the Axis alliance with Italy and Japan (with other countries later). Following the onset of campaigns in North Africa and East Africa, and the fall of France in mid-1940, the war continued primarily between the European Axis powers and the British Empire, with war in the Balkans, the aerial Battle of Britain, the Blitz of the United Kingdom, and the Battle of the Atlantic. On 22 June 1941, Germany led the European Axis powers in an invasion of the Soviet Union, opening the Eastern Front, the largest land theatre of war in history.",
+    "question": "What was the name of the alliance formed by Germany?",
+    "answers": {
+      "text": [
+        "Axis",
+        "Axis alliance",
+        "Axis"
+      ],
+      "answer_start": [
+        831,
+        831,
+        831
+      ]
+    }
+  },
+  {
+    "id": "42f361fd-a29e-4772-b7f7-d968b1dbcd31",
+    "title": "World War II",
+    "context": "The causes of World War II are debated, but contributing factors included the Second Italo-Ethiopian War, the Spanish Civil War, the Second Sino-Japanese War, the Soviet\u2013Japanese border conflicts, the rise of fascism in Europe and rising European tensions since World War I. World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland. The United Kingdom and France subsequently declared war on Germany on 3 September. Under the Molotov\u2013Ribbentrop Pact of August 1939, Germany and the Soviet Union had partitioned Poland and marked out their 'spheres of influence' across Finland, Estonia, Latvia, Lithuania and Romania. From late 1939 to early 1941, in a series of campaigns and treaties, Germany conquered or controlled much of continental Europe, and formed the Axis alliance with Italy and Japan (with other countries later). Following the onset of campaigns in North Africa and East Africa, and the fall of France in mid-1940, the war continued primarily between the European Axis powers and the British Empire, with war in the Balkans, the aerial Battle of Britain, the Blitz of the United Kingdom, and the Battle of the Atlantic. On 22 June 1941, Germany led the European Axis powers in an invasion of the Soviet Union, opening the Eastern Front, the largest land theatre of war in history.",
+    "question": "With what countries did Germany allied during World War II?",
+    "answers": {
+      "text": [
+        "Italy and Japan",
+        "Italy and Japan",
+        "Italy and Japan"
+      ],
+      "answer_start": [
+        850,
+        850,
+        850
+      ]
+    }
+  },
+  {
+    "id": "b63109d5-7118-4043-bfc7-517eca9a097d",
+    "title": "World War II",
+    "context": "The causes of World War II are debated, but contributing factors included the Second Italo-Ethiopian War, the Spanish Civil War, the Second Sino-Japanese War, the Soviet\u2013Japanese border conflicts, the rise of fascism in Europe and rising European tensions since World War I. World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland. The United Kingdom and France subsequently declared war on Germany on 3 September. Under the Molotov\u2013Ribbentrop Pact of August 1939, Germany and the Soviet Union had partitioned Poland and marked out their 'spheres of influence' across Finland, Estonia, Latvia, Lithuania and Romania. From late 1939 to early 1941, in a series of campaigns and treaties, Germany conquered or controlled much of continental Europe, and formed the Axis alliance with Italy and Japan (with other countries later). Following the onset of campaigns in North Africa and East Africa, and the fall of France in mid-1940, the war continued primarily between the European Axis powers and the British Empire, with war in the Balkans, the aerial Battle of Britain, the Blitz of the United Kingdom, and the Battle of the Atlantic. On 22 June 1941, Germany led the European Axis powers in an invasion of the Soviet Union, opening the Eastern Front, the largest land theatre of war in history.",
+    "question": "What action initiated World War II?",
+    "answers": {
+      "text": [
+        "invaded Poland",
+        "invaded Poland",
+        "invaded Poland"
+      ],
+      "answer_start": [
+        386,
+        386,
+        386
+      ]
+    }
+  },
+  {
+    "id": "2f90773c-45f7-42c5-9f04-4ea46eb90a4d",
+    "title": "World War II",
+    "context": "The causes of World War II are debated, but contributing factors included the Second Italo-Ethiopian War, the Spanish Civil War, the Second Sino-Japanese War, the Soviet\u2013Japanese border conflicts, the rise of fascism in Europe and rising European tensions since World War I. World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland. The United Kingdom and France subsequently declared war on Germany on 3 September. Under the Molotov\u2013Ribbentrop Pact of August 1939, Germany and the Soviet Union had partitioned Poland and marked out their 'spheres of influence' across Finland, Estonia, Latvia, Lithuania and Romania. From late 1939 to early 1941, in a series of campaigns and treaties, Germany conquered or controlled much of continental Europe, and formed the Axis alliance with Italy and Japan (with other countries later). Following the onset of campaigns in North Africa and East Africa, and the fall of France in mid-1940, the war continued primarily between the European Axis powers and the British Empire, with war in the Balkans, the aerial Battle of Britain, the Blitz of the United Kingdom, and the Battle of the Atlantic. On 22 June 1941, Germany led the European Axis powers in an invasion of the Soviet Union, opening the Eastern Front, the largest land theatre of war in history.",
+    "question": "Who led Germany during World War II?",
+    "answers": {
+      "text": [
+        "Adolf Hitler",
+        "Adolf Hitler",
+        "Adolf Hitler"
+      ],
+      "answer_start": [
+        372,
+        372,
+        372
+      ]
+    }
+  },
+  {
+    "id": "a7c52174-2f05-4c39-84b7-0edb23f7b333",
+    "title": "Wright Flyer",
+    "context": "The Wrights built the aircraft in 1903 using spruce for straight members of the airframe (such as wing spars) and ash wood for curved components (wing ribs).[6] The wings were designed with a 1-in-20 camber. Since they could not find a suitable automobile engine for the task, they commissioned their employee Charlie Taylor to build a new design from scratch, a lightweight 12-horsepower (9-kilowatt) gasoline engine, weighing 180 pounds (82 kg), with a 1-US-gallon (3.8 l; 0.83 imp gal) fuel tank.[7] A sprocket chain drive, borrowing from bicycle technology, powered the twin propellers, which were also made by hand.[5] In order to avoid the risk of torque effects from affecting the aircraft handling, one drive chain was crossed over so that the propellers rotated in opposite directions.",
+    "question": "What powered propellers?",
+    "answers": {
+      "text": [
+        "A sprocket chain drive",
+        "sprocket chain drive",
+        "sprocket chain"
+      ],
+      "answer_start": [
+        503,
+        505,
+        505
+      ]
+    }
+  },
+  {
+    "id": "83905162-1bff-4ec6-87ff-b575c6a89a07",
+    "title": "Wright Flyer",
+    "context": "The Wrights built the aircraft in 1903 using spruce for straight members of the airframe (such as wing spars) and ash wood for curved components (wing ribs).[6] The wings were designed with a 1-in-20 camber. Since they could not find a suitable automobile engine for the task, they commissioned their employee Charlie Taylor to build a new design from scratch, a lightweight 12-horsepower (9-kilowatt) gasoline engine, weighing 180 pounds (82 kg), with a 1-US-gallon (3.8 l; 0.83 imp gal) fuel tank.[7] A sprocket chain drive, borrowing from bicycle technology, powered the twin propellers, which were also made by hand.[5] In order to avoid the risk of torque effects from affecting the aircraft handling, one drive chain was crossed over so that the propellers rotated in opposite directions.",
+    "question": "How were torque effects prevented?",
+    "answers": {
+      "text": [
+        "one drive chain was crossed over",
+        "one drive chain was crossed over so that the propellers rotated in opposite directions",
+        "one drive chain was crossed over"
+      ],
+      "answer_start": [
+        707,
+        707,
+        707
+      ]
+    }
+  },
+  {
+    "id": "6c7f990e-a0a7-43b9-95c4-26ffe9ed813e",
+    "title": "Wright Flyer",
+    "context": "The Wrights built the aircraft in 1903 using spruce for straight members of the airframe (such as wing spars) and ash wood for curved components (wing ribs).[6] The wings were designed with a 1-in-20 camber. Since they could not find a suitable automobile engine for the task, they commissioned their employee Charlie Taylor to build a new design from scratch, a lightweight 12-horsepower (9-kilowatt) gasoline engine, weighing 180 pounds (82 kg), with a 1-US-gallon (3.8 l; 0.83 imp gal) fuel tank.[7] A sprocket chain drive, borrowing from bicycle technology, powered the twin propellers, which were also made by hand.[5] In order to avoid the risk of torque effects from affecting the aircraft handling, one drive chain was crossed over so that the propellers rotated in opposite directions.",
+    "question": "What fuel powered the plane?",
+    "answers": {
+      "text": [
+        "gasoline",
+        "gasoline",
+        "gasoline"
+      ],
+      "answer_start": [
+        402,
+        402,
+        402
+      ]
+    }
+  },
+  {
+    "id": "e4e016ae-e6bd-46cb-b223-ace6538f87e5",
+    "title": "Wright Flyer",
+    "context": "The Wrights built the aircraft in 1903 using spruce for straight members of the airframe (such as wing spars) and ash wood for curved components (wing ribs).[6] The wings were designed with a 1-in-20 camber. Since they could not find a suitable automobile engine for the task, they commissioned their employee Charlie Taylor to build a new design from scratch, a lightweight 12-horsepower (9-kilowatt) gasoline engine, weighing 180 pounds (82 kg), with a 1-US-gallon (3.8 l; 0.83 imp gal) fuel tank.[7] A sprocket chain drive, borrowing from bicycle technology, powered the twin propellers, which were also made by hand.[5] In order to avoid the risk of torque effects from affecting the aircraft handling, one drive chain was crossed over so that the propellers rotated in opposite directions.",
+    "question": "Why was a new engine designed?",
+    "answers": {
+      "text": [
+        "they could not find a suitable automobile engine",
+        "they could not find a suitable automobile engine for the task",
+        "they could not find a suitable automobile engine"
+      ],
+      "answer_start": [
+        214,
+        214,
+        214
+      ]
+    }
+  },
+  {
+    "id": "e95054bf-8635-44e7-8e99-a9e784f07049",
+    "title": "Wright Flyer",
+    "context": "The Wrights built the aircraft in 1903 using spruce for straight members of the airframe (such as wing spars) and ash wood for curved components (wing ribs).[6] The wings were designed with a 1-in-20 camber. Since they could not find a suitable automobile engine for the task, they commissioned their employee Charlie Taylor to build a new design from scratch, a lightweight 12-horsepower (9-kilowatt) gasoline engine, weighing 180 pounds (82 kg), with a 1-US-gallon (3.8 l; 0.83 imp gal) fuel tank.[7] A sprocket chain drive, borrowing from bicycle technology, powered the twin propellers, which were also made by hand.[5] In order to avoid the risk of torque effects from affecting the aircraft handling, one drive chain was crossed over so that the propellers rotated in opposite directions.",
+    "question": "What material as used for curved components?",
+    "answers": {
+      "text": [
+        "ash wood",
+        "ash wood",
+        "ash wood"
+      ],
+      "answer_start": [
+        114,
+        114,
+        114
+      ]
+    }
+  },
+  {
+    "id": "53b11a46-fe0d-4d83-8e1c-0362022a12d7",
+    "title": "Cuba",
+    "context": "In 1511, the first Spanish settlement was founded by Diego Vel\u00e1zquez de Cu\u00e9llar at Baracoa. Other settlements soon followed, including San Cristobal de la Habana, founded in 1515, which later became the capital. The indigenous Ta\u00edno were forced to work under the encomienda system,[48] which resembled the feudal system in medieval Europe.[49] Within a century, the indigenous people were virtually wiped out due to multiple factors, primarily Eurasian infectious diseases, to which they had no natural resistance (immunity), aggravated by the harsh conditions of the repressive colonial subjugation.[50] In 1529, a measles outbreak in Cuba killed two-thirds of those few natives who had previously survived smallpox.",
+    "question": "When was the capital founded?",
+    "answers": {
+      "text": [
+        "1515",
+        "1515",
+        "1515"
+      ],
+      "answer_start": [
+        174,
+        174,
+        174
+      ]
+    }
+  },
+  {
+    "id": "c97f14dc-af1d-479b-a6d0-1eef29efd899",
+    "title": "Cuba",
+    "context": "In 1511, the first Spanish settlement was founded by Diego Vel\u00e1zquez de Cu\u00e9llar at Baracoa. Other settlements soon followed, including San Cristobal de la Habana, founded in 1515, which later became the capital. The indigenous Ta\u00edno were forced to work under the encomienda system,[48] which resembled the feudal system in medieval Europe.[49] Within a century, the indigenous people were virtually wiped out due to multiple factors, primarily Eurasian infectious diseases, to which they had no natural resistance (immunity), aggravated by the harsh conditions of the repressive colonial subjugation.[50] In 1529, a measles outbreak in Cuba killed two-thirds of those few natives who had previously survived smallpox.",
+    "question": "What were locals mandated to do?",
+    "answers": {
+      "text": [
+        "The indigenous Ta\u00edno were forced to work under the encomienda system",
+        "forced to work under the encomienda system",
+        "forced to work",
+        "work"
+      ],
+      "answer_start": [
+        212,
+        238,
+        238,
+        248
+      ]
+    }
+  },
+  {
+    "id": "e9a8153b-1789-4623-90bb-b94fb1427a96",
+    "title": "Cuba",
+    "context": "In 1511, the first Spanish settlement was founded by Diego Vel\u00e1zquez de Cu\u00e9llar at Baracoa. Other settlements soon followed, including San Cristobal de la Habana, founded in 1515, which later became the capital. The indigenous Ta\u00edno were forced to work under the encomienda system,[48] which resembled the feudal system in medieval Europe.[49] Within a century, the indigenous people were virtually wiped out due to multiple factors, primarily Eurasian infectious diseases, to which they had no natural resistance (immunity), aggravated by the harsh conditions of the repressive colonial subjugation.[50] In 1529, a measles outbreak in Cuba killed two-thirds of those few natives who had previously survived smallpox.",
+    "question": "What disease wiped most of the locals?",
+    "answers": {
+      "text": [
+        "measles",
+        "measles outbreak",
+        "measles"
+      ],
+      "answer_start": [
+        616,
+        616,
+        616
+      ]
+    }
+  },
+  {
+    "id": "f2e5eee6-c7fe-41fd-ba3f-a92d553f8ab9",
+    "title": "Cuba",
+    "context": "The largest factor for the growth of Cuba's commerce in the late eighteenth and early nineteenth century was the Haitian Revolution. When the enslaved peoples of what had been the Caribbean's richest colony freed themselves through violent revolt, Cuban planters perceived the region's changing circumstances with both a sense of fear and opportunity. They were afraid because of the prospect that slaves might revolt in Cuba as well, and numerous prohibitions during the 1790s of the sale of slaves in Cuba who had previously been enslaved in French colonies underscored this anxiety. The planters saw opportunity, however, because they thought that they could exploit the situation by transforming Cuba into the slave society and sugar-producing pearl of the Antilles that Haiti had been before the revolution.[60] As the historian Ada Ferrer has written, At a basic level, liberation in Saint-Domingue helped entrench its denial in Cuba. As slavery and colonialism collapsed in the French colony, the Spanish island underwent transformations that were almost the mirror image of Haiti's.[61] Estimates suggest that between 1790 and 1820 some 325,000 Africans were imported to Cuba as slaves, which was four times the amount that had arrived between 1760 and 1790.",
+    "question": "Which country played a major role in Cuba's economic growth?",
+    "answers": {
+      "text": [
+        "Haiti",
+        "Haiti",
+        "Haiti"
+      ],
+      "answer_start": [
+        113,
+        113,
+        113
+      ]
+    }
+  },
+  {
+    "id": "d5f6c18e-4c85-4c8d-b729-7e6aa84225d1",
+    "title": "Cuba",
+    "context": "The largest factor for the growth of Cuba's commerce in the late eighteenth and early nineteenth century was the Haitian Revolution. When the enslaved peoples of what had been the Caribbean's richest colony freed themselves through violent revolt, Cuban planters perceived the region's changing circumstances with both a sense of fear and opportunity. They were afraid because of the prospect that slaves might revolt in Cuba as well, and numerous prohibitions during the 1790s of the sale of slaves in Cuba who had previously been enslaved in French colonies underscored this anxiety. The planters saw opportunity, however, because they thought that they could exploit the situation by transforming Cuba into the slave society and sugar-producing pearl of the Antilles that Haiti had been before the revolution.[60] As the historian Ada Ferrer has written, At a basic level, liberation in Saint-Domingue helped entrench its denial in Cuba. As slavery and colonialism collapsed in the French colony, the Spanish island underwent transformations that were almost the mirror image of Haiti's.[61] Estimates suggest that between 1790 and 1820 some 325,000 Africans were imported to Cuba as slaves, which was four times the amount that had arrived between 1760 and 1790.",
+    "question": "How many slaves were imported to Cuba from 1790 to 1820?",
+    "answers": {
+      "text": [
+        "325,000",
+        "325,000",
+        "325,000"
+      ],
+      "answer_start": [
+        1145,
+        1145,
+        1145
+      ]
+    }
+  },
+  {
+    "id": "5c5ac070-95e1-4223-a85b-70fc4a7fd31f",
+    "title": "Las Vegas",
+    "context": "Las Vegas winters are short and generally very mild, with chilly (but rarely cold) daytime temperatures. Sunshine is abundant in all seasons. December is both the year's coolest and cloudiest month, with an average daytime high of 56.9 \u00b0F (13.8 \u00b0C) and sunshine occurring during 78% of its daylight hours. Winter evenings are defined by clear skies and swift drops in temperature after sunset, with overnight minima averaging around 40 \u00b0F (4.4 \u00b0C) in December and January. Owing to its elevation that ranges from 2,000 to 3,000 feet (610 to 910 m), Las Vegas experiences markedly cooler winters than other areas of the Mojave Desert and the adjacent Sonoran Desert that are closer to sea level. The city records freezing temperatures an average of 10 nights per winter. It is exceptionally rare for temperatures to reach or fall below 25 \u00b0F (\u22124 \u00b0C).",
+    "question": "What is the average lowest temperature in Las Vegas?",
+    "answers": {
+      "text": [
+        "40 \u00b0F",
+        "40 \u00b0F (4.4 \u00b0C)",
+        "4.4 \u00b0C"
+      ],
+      "answer_start": [
+        433,
+        433,
+        440
+      ]
+    }
+  },
+  {
+    "id": "a4c79481-7b0b-4dec-8650-e6230607be14",
+    "title": "Las Vegas",
+    "context": "Las Vegas winters are short and generally very mild, with chilly (but rarely cold) daytime temperatures. Sunshine is abundant in all seasons. December is both the year's coolest and cloudiest month, with an average daytime high of 56.9 \u00b0F (13.8 \u00b0C) and sunshine occurring during 78% of its daylight hours. Winter evenings are defined by clear skies and swift drops in temperature after sunset, with overnight minima averaging around 40 \u00b0F (4.4 \u00b0C) in December and January. Owing to its elevation that ranges from 2,000 to 3,000 feet (610 to 910 m), Las Vegas experiences markedly cooler winters than other areas of the Mojave Desert and the adjacent Sonoran Desert that are closer to sea level. The city records freezing temperatures an average of 10 nights per winter. It is exceptionally rare for temperatures to reach or fall below 25 \u00b0F (\u22124 \u00b0C).",
+    "question": "What is the lowest temperature in Las Vegas?",
+    "answers": {
+      "text": [
+        "25 \u00b0F",
+        "25 \u00b0F (\u22124 \u00b0C)",
+        "\u22124 \u00b0C"
+      ],
+      "answer_start": [
+        835,
+        835,
+        842
+      ]
+    }
+  },
+  {
+    "id": "94eacbd1-d029-4621-b50f-a58de6c11298",
+    "title": "Las Vegas",
+    "context": "Las Vegas winters are short and generally very mild, with chilly (but rarely cold) daytime temperatures. Sunshine is abundant in all seasons. December is both the year's coolest and cloudiest month, with an average daytime high of 56.9 \u00b0F (13.8 \u00b0C) and sunshine occurring during 78% of its daylight hours. Winter evenings are defined by clear skies and swift drops in temperature after sunset, with overnight minima averaging around 40 \u00b0F (4.4 \u00b0C) in December and January. Owing to its elevation that ranges from 2,000 to 3,000 feet (610 to 910 m), Las Vegas experiences markedly cooler winters than other areas of the Mojave Desert and the adjacent Sonoran Desert that are closer to sea level. The city records freezing temperatures an average of 10 nights per winter. It is exceptionally rare for temperatures to reach or fall below 25 \u00b0F (\u22124 \u00b0C).",
+    "question": "What is the elevation of Las Vegas in meters?",
+    "answers": {
+      "text": [
+        "610 to 910 m",
+        "(610 to 910 m)",
+        "610 to 910 m"
+      ],
+      "answer_start": [
+        534,
+        533,
+        534
+      ]
+    }
+  },
+  {
+    "id": "949ff2dc-5b5b-4979-b5f3-60dce36f2e68",
+    "title": "Microsoft",
+    "context": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue;[2] it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Alphabet, Amazon, Apple, and Meta.",
+    "question": "How many big American information technology companies are there?",
+    "answers": {
+      "text": [
+        "Five",
+        "Five",
+        "Five"
+      ],
+      "answer_start": [
+        750,
+        750,
+        750
+      ]
+    }
+  },
+  {
+    "id": "896089e8-b5ea-4fe3-a861-7c0e27cf4f58",
+    "title": "Microsoft",
+    "context": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue;[2] it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Alphabet, Amazon, Apple, and Meta.",
+    "question": "When did Microsoft ranked 21 in Fortune 500?",
+    "answers": {
+      "text": [
+        "2020",
+        "2020",
+        "2020"
+      ],
+      "answer_start": [
+        575,
+        575,
+        575
+      ]
+    }
+  },
+  {
+    "id": "e9353aa5-1f1b-4f71-b9a5-a0fbc34a5995",
+    "title": "Microsoft",
+    "context": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue;[2] it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Alphabet, Amazon, Apple, and Meta.",
+    "question": "What is Microsoft's operating system called?",
+    "answers": {
+      "text": [
+        "Windows",
+        "Windows",
+        "Windows"
+      ],
+      "answer_start": [
+        300,
+        300,
+        300
+      ]
+    }
+  },
+  {
+    "id": "bc297f6a-940c-4f13-a053-5f327b2d6b41",
+    "title": "Microsoft",
+    "context": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue;[2] it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Alphabet, Amazon, Apple, and Meta.",
+    "question": "Where is the creator of Xbox main office located?",
+    "answers": {
+      "text": [
+        "Redmond",
+        "Redmond, Washington",
+        "Redmond, Washington, United States"
+      ],
+      "answer_start": [
+        197,
+        223,
+        223
+      ]
+    }
+  },
+  {
+    "id": "6ad53593-b19a-44fb-8443-8cc55c222d95",
+    "title": "Microsoft",
+    "context": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue;[2] it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Alphabet, Amazon, Apple, and Meta.",
+    "question": "What are Microsoft's web browsers called?",
+    "answers": {
+      "text": [
+        "Internet Explorer and Edge",
+        "Internet Explorer and Edge",
+        "Internet Explorer and Edge"
+      ],
+      "answer_start": [
+        371,
+        371,
+        371
+      ]
+    }
+  },
+  {
+    "id": "45ae4aee-e46d-4651-9d5e-cb8a83d8a8b6",
+    "title": "Microsoft",
+    "context": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue;[2] it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Alphabet, Amazon, Apple, and Meta.",
+    "question": "What is the other flagship product of the Xbox manufacturer?",
+    "answers": {
+      "text": [
+        "the Microsoft Surface lineup of touchscreen personal computers",
+        "Microsoft Surface",
+        "the Microsoft Surface lineup",
+        "Microsoft Surface lineup"
+      ],
+      "answer_start": [
+        480,
+        484,
+        480,
+        484
+      ]
+    }
+  },
+  {
+    "id": "7a83fe3f-bc92-4803-a107-6c20b9ffc854",
+    "title": "Microsoft",
+    "context": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue;[2] it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Alphabet, Amazon, Apple, and Meta.",
+    "question": "In what year was Microsoft the largest software maker?",
+    "answers": {
+      "text": [
+        "2019",
+        "2019",
+        "2019"
+      ],
+      "answer_start": [
+        723,
+        723,
+        723
+      ]
+    }
+  },
+  {
+    "id": "d5528704-735e-451d-b69b-989b49bad360",
+    "title": "University of Texas at Austin",
+    "context": "The University of Texas at Austin has an extensive tunnel system that links the buildings on campus. Constructed circa 1928 under the supervision of UT engineering professor Carl J. Eckhardt Jr., then head of the physical plant, the tunnels have grown along with the campus.[65] They measure approximately six miles in length.[66][dead link][67] The tunnel system is used for communications and utility service. It is closed to the public and guarded by silent alarms. Since the late 1940s, the university has generated its own electricity. Today its natural gas cogeneration plant has a capacity of 123 MW. The university also operates a TRIGA nuclear reactor at the J. J. Pickle Research Campus.[68][69] The university continues to expand its facilities on campus. In 2010, the university opened the state-of-the-art Norman Hackerman building (on the site of the former Experimental Sciences Building) housing chemistry and biology research and teaching laboratories. In 2010, the university broke ground on the $120 million Bill & Melinda Gates Computer Science Complex and Dell Computer Science Hall and the $51 million Belo Center for New Media, both of which are now complete.[70][71] The new LEED gold-certified, 110,000-square-foot (10,000 m2) Student Activity Center (SAC) opened in January 2011, housing study rooms, lounges and food vendors. The SAC was constructed as a result of a student referendum passed in 2006 which raised student fees by $65 per semester.[72] In 2012, the Moody Foundation awarded the College of Communication $50 million, the largest endowment any communication college has received, so naming it the Moody College of Communication.",
+    "question": "What was the cost of the Computer Science building?",
+    "answers": {
+      "text": [
+        "$120 million",
+        "$120 million",
+        "$120 million"
+      ],
+      "answer_start": [
+        1014,
+        1014,
+        1014
+      ]
+    }
+  },
+  {
+    "id": "bdd0868d-105c-4155-8d82-b7a048453772",
+    "title": "University of Texas at Austin",
+    "context": "The University of Texas at Austin has an extensive tunnel system that links the buildings on campus. Constructed circa 1928 under the supervision of UT engineering professor Carl J. Eckhardt Jr., then head of the physical plant, the tunnels have grown along with the campus.[65] They measure approximately six miles in length.[66][dead link][67] The tunnel system is used for communications and utility service. It is closed to the public and guarded by silent alarms. Since the late 1940s, the university has generated its own electricity. Today its natural gas cogeneration plant has a capacity of 123 MW. The university also operates a TRIGA nuclear reactor at the J. J. Pickle Research Campus.[68][69] The university continues to expand its facilities on campus. In 2010, the university opened the state-of-the-art Norman Hackerman building (on the site of the former Experimental Sciences Building) housing chemistry and biology research and teaching laboratories. In 2010, the university broke ground on the $120 million Bill & Melinda Gates Computer Science Complex and Dell Computer Science Hall and the $51 million Belo Center for New Media, both of which are now complete.[70][71] The new LEED gold-certified, 110,000-square-foot (10,000 m2) Student Activity Center (SAC) opened in January 2011, housing study rooms, lounges and food vendors. The SAC was constructed as a result of a student referendum passed in 2006 which raised student fees by $65 per semester.[72] In 2012, the Moody Foundation awarded the College of Communication $50 million, the largest endowment any communication college has received, so naming it the Moody College of Communication.",
+    "question": "Which building has study rooms and food vendors?",
+    "answers": {
+      "text": [
+        "Student Activity Center (SAC)",
+        "Student Activity Center",
+        "SAC"
+      ],
+      "answer_start": [
+        1252,
+        1252,
+        1277
+      ]
+    }
+  },
+  {
+    "id": "49351eb3-5035-4a95-a260-a6629650309d",
+    "title": "University of Texas at Austin",
+    "context": "The University of Texas at Austin has an extensive tunnel system that links the buildings on campus. Constructed circa 1928 under the supervision of UT engineering professor Carl J. Eckhardt Jr., then head of the physical plant, the tunnels have grown along with the campus.[65] They measure approximately six miles in length.[66][dead link][67] The tunnel system is used for communications and utility service. It is closed to the public and guarded by silent alarms. Since the late 1940s, the university has generated its own electricity. Today its natural gas cogeneration plant has a capacity of 123 MW. The university also operates a TRIGA nuclear reactor at the J. J. Pickle Research Campus.[68][69] The university continues to expand its facilities on campus. In 2010, the university opened the state-of-the-art Norman Hackerman building (on the site of the former Experimental Sciences Building) housing chemistry and biology research and teaching laboratories. In 2010, the university broke ground on the $120 million Bill & Melinda Gates Computer Science Complex and Dell Computer Science Hall and the $51 million Belo Center for New Media, both of which are now complete.[70][71] The new LEED gold-certified, 110,000-square-foot (10,000 m2) Student Activity Center (SAC) opened in January 2011, housing study rooms, lounges and food vendors. The SAC was constructed as a result of a student referendum passed in 2006 which raised student fees by $65 per semester.[72] In 2012, the Moody Foundation awarded the College of Communication $50 million, the largest endowment any communication college has received, so naming it the Moody College of Communication.",
+    "question": "What are UT tunnels used for?",
+    "answers": {
+      "text": [
+        "The tunnel system is used for communications and utility service",
+        "communications and utility service",
+        "communications and utility"
+      ],
+      "answer_start": [
+        346,
+        376,
+        376
+      ]
+    }
+  },
+  {
+    "id": "b2312567-c68e-4c10-a6f8-53dd8e450a94",
+    "title": "University of Texas at Austin",
+    "context": "The University of Texas at Austin has an extensive tunnel system that links the buildings on campus. Constructed circa 1928 under the supervision of UT engineering professor Carl J. Eckhardt Jr., then head of the physical plant, the tunnels have grown along with the campus.[65] They measure approximately six miles in length.[66][dead link][67] The tunnel system is used for communications and utility service. It is closed to the public and guarded by silent alarms. Since the late 1940s, the university has generated its own electricity. Today its natural gas cogeneration plant has a capacity of 123 MW. The university also operates a TRIGA nuclear reactor at the J. J. Pickle Research Campus.[68][69] The university continues to expand its facilities on campus. In 2010, the university opened the state-of-the-art Norman Hackerman building (on the site of the former Experimental Sciences Building) housing chemistry and biology research and teaching laboratories. In 2010, the university broke ground on the $120 million Bill & Melinda Gates Computer Science Complex and Dell Computer Science Hall and the $51 million Belo Center for New Media, both of which are now complete.[70][71] The new LEED gold-certified, 110,000-square-foot (10,000 m2) Student Activity Center (SAC) opened in January 2011, housing study rooms, lounges and food vendors. The SAC was constructed as a result of a student referendum passed in 2006 which raised student fees by $65 per semester.[72] In 2012, the Moody Foundation awarded the College of Communication $50 million, the largest endowment any communication college has received, so naming it the Moody College of Communication.",
+    "question": "By how much were fees raised for construct SAC?",
+    "answers": {
+      "text": [
+        "by $65 per semester",
+        "by $65",
+        "$65 per semester",
+        "$65"
+      ],
+      "answer_start": [
+        1454,
+        1454,
+        1457,
+        1457
+      ]
+    }
+  },
+  {
+    "id": "78e988df-97c3-460c-8393-3bc615fb47ed",
+    "title": "University of Texas at Austin",
+    "context": "The University of Texas at Austin has an extensive tunnel system that links the buildings on campus. Constructed circa 1928 under the supervision of UT engineering professor Carl J. Eckhardt Jr., then head of the physical plant, the tunnels have grown along with the campus.[65] They measure approximately six miles in length.[66][dead link][67] The tunnel system is used for communications and utility service. It is closed to the public and guarded by silent alarms. Since the late 1940s, the university has generated its own electricity. Today its natural gas cogeneration plant has a capacity of 123 MW. The university also operates a TRIGA nuclear reactor at the J. J. Pickle Research Campus.[68][69] The university continues to expand its facilities on campus. In 2010, the university opened the state-of-the-art Norman Hackerman building (on the site of the former Experimental Sciences Building) housing chemistry and biology research and teaching laboratories. In 2010, the university broke ground on the $120 million Bill & Melinda Gates Computer Science Complex and Dell Computer Science Hall and the $51 million Belo Center for New Media, both of which are now complete.[70][71] The new LEED gold-certified, 110,000-square-foot (10,000 m2) Student Activity Center (SAC) opened in January 2011, housing study rooms, lounges and food vendors. The SAC was constructed as a result of a student referendum passed in 2006 which raised student fees by $65 per semester.[72] In 2012, the Moody Foundation awarded the College of Communication $50 million, the largest endowment any communication college has received, so naming it the Moody College of Communication.",
+    "question": "What is UT's research campus called?",
+    "answers": {
+      "text": [
+        "J. J. Pickle Research Campus",
+        "J. J. Pickle",
+        "Pickle"
+      ],
+      "answer_start": [
+        668,
+        668,
+        674
+      ]
+    }
+  },
+  {
+    "id": "e032289e-c86c-4ba0-b50a-d2a4de1b246b",
+    "title": "United States Congress",
+    "context": "The sitting of a Congress is for a two-year term, at present, beginning every other January. Elections are held every even-numbered year on Election Day. The members of the House of Representatives are elected for the two-year term of a Congress. The Reapportionment Act of 1929 establishes that there be 435 Representatives and the Uniform Congressional Redistricting Act requires that they be elected from single-member constituencies or districts. It is also required that the Congressional districts be apportioned among states by population every ten years using the United States Census results, provided that each state has at least one Congressional representative. Each senator is elected at-large in their state for a six-year term, with terms staggered, so every two years approximately one-third of the Senate is up for election. Each state, regardless of population or size, has two senators, so currently, there are 100 senators for the 50 states.",
+    "question": "For how long do house members serve?",
+    "answers": {
+      "text": [
+        "two-year term",
+        "two-year",
+        "two-year term",
+        "two-year"
+      ],
+      "answer_start": [
+        35,
+        35,
+        35,
+        35
+      ]
+    }
+  },
+  {
+    "id": "d2f5ce57-2009-4721-aea9-e92552a92240",
+    "title": "United States Congress",
+    "context": "The sitting of a Congress is for a two-year term, at present, beginning every other January. Elections are held every even-numbered year on Election Day. The members of the House of Representatives are elected for the two-year term of a Congress. The Reapportionment Act of 1929 establishes that there be 435 Representatives and the Uniform Congressional Redistricting Act requires that they be elected from single-member constituencies or districts. It is also required that the Congressional districts be apportioned among states by population every ten years using the United States Census results, provided that each state has at least one Congressional representative. Each senator is elected at-large in their state for a six-year term, with terms staggered, so every two years approximately one-third of the Senate is up for election. Each state, regardless of population or size, has two senators, so currently, there are 100 senators for the 50 states.",
+    "question": "For how long do senators serve for?",
+    "answers": {
+      "text": [
+        "six-year term",
+        "six-year",
+        "six-year term"
+      ],
+      "answer_start": [
+        728,
+        728,
+        728
+      ]
+    }
+  },
+  {
+    "id": "23d8cb55-430a-4664-ba5e-1da17a18989b",
+    "title": "United States Congress",
+    "context": "The sitting of a Congress is for a two-year term, at present, beginning every other January. Elections are held every even-numbered year on Election Day. The members of the House of Representatives are elected for the two-year term of a Congress. The Reapportionment Act of 1929 establishes that there be 435 Representatives and the Uniform Congressional Redistricting Act requires that they be elected from single-member constituencies or districts. It is also required that the Congressional districts be apportioned among states by population every ten years using the United States Census results, provided that each state has at least one Congressional representative. Each senator is elected at-large in their state for a six-year term, with terms staggered, so every two years approximately one-third of the Senate is up for election. Each state, regardless of population or size, has two senators, so currently, there are 100 senators for the 50 states.",
+    "question": "How often are there senate elections?",
+    "answers": {
+      "text": [
+        "every two years",
+        "every two years",
+        "every two years"
+      ],
+      "answer_start": [
+        768,
+        768,
+        768
+      ]
+    }
+  },
+  {
+    "id": "ff789971-2171-486d-8e18-ea869d39f36f",
+    "title": "United States Congress",
+    "context": "The sitting of a Congress is for a two-year term, at present, beginning every other January. Elections are held every even-numbered year on Election Day. The members of the House of Representatives are elected for the two-year term of a Congress. The Reapportionment Act of 1929 establishes that there be 435 Representatives and the Uniform Congressional Redistricting Act requires that they be elected from single-member constituencies or districts. It is also required that the Congressional districts be apportioned among states by population every ten years using the United States Census results, provided that each state has at least one Congressional representative. Each senator is elected at-large in their state for a six-year term, with terms staggered, so every two years approximately one-third of the Senate is up for election. Each state, regardless of population or size, has two senators, so currently, there are 100 senators for the 50 states.",
+    "question": "How are senators elected?",
+    "answers": {
+      "text": [
+        "Each senator is elected at-large in their state",
+        "at-large in their state",
+        "Each senator is elected at-large in their state"
+      ],
+      "answer_start": [
+        674,
+        698,
+        674
+      ]
+    }
+  },
+  {
+    "id": "d7c76f57-aefb-48d9-8f33-6ce787f232a2",
+    "title": "United States Congress",
+    "context": "The sitting of a Congress is for a two-year term, at present, beginning every other January. Elections are held every even-numbered year on Election Day. The members of the House of Representatives are elected for the two-year term of a Congress. The Reapportionment Act of 1929 establishes that there be 435 Representatives and the Uniform Congressional Redistricting Act requires that they be elected from single-member constituencies or districts. It is also required that the Congressional districts be apportioned among states by population every ten years using the United States Census results, provided that each state has at least one Congressional representative. Each senator is elected at-large in their state for a six-year term, with terms staggered, so every two years approximately one-third of the Senate is up for election. Each state, regardless of population or size, has two senators, so currently, there are 100 senators for the 50 states.",
+    "question": "What requires house members to be elected from single-member districts?",
+    "answers": {
+      "text": [
+        "the Uniform Congressional Redistricting Act",
+        "Uniform Congressional Redistricting Act",
+        "the Uniform Congressional Redistricting Act"
+      ],
+      "answer_start": [
+        329,
+        333,
+        329
+      ]
+    }
+  }
+]
