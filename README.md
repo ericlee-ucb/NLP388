@@ -1,6 +1,7 @@
 # run2.py
-python3 run2.py --do_train --dataset squad --per_device_train_batch_size 24 --output_dir ./trained_model_s50_adv25_s250
-python3 run2.py --do_eval --dataset squad --model ./trained_model_s50_adv25_s250/ --output_dir ./eval_squad_mix
+`python3 run2.py --do_train --dataset squad --per_device_train_batch_size 24 --output_dir ./trained_model_s50_adv25_s250`
+
+`python3 run2.py --do_eval --dataset squad --model ./trained_model_s50_adv25_s250/ --output_dir ./eval_squad_mix`
 
 # fp-dataset-artifacts
 
