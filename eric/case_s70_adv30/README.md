@@ -5,5 +5,5 @@
 # Evaluation
 
 `python3 run.py --do_eval --dataset squad --model ./case_s70_adv30/model --output_dir ./case_s70_adv30/eval_squad`
-`python3 run.py --do_eval --dataset legacy107/newsqa --model ./case_s70_adv30/model --output_dir ./case_s70_adv30/eval_squad_newsqa` 
+`python3 run.py --do_eval --dataset legacy107/newsqa --model ./case_s70_adv30/model --output_dir ./case_s70_adv30/eval_newsqa` 
 `python3 run.py --do_eval --dataset squad_adversarial:AddSent --model ./case_s70_adv30/model --output_dir ./case_s70_adv30/eval_squadadv`
